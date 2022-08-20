@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("some local changes with out commiting we are checking out" +
                 "so it will stash the changes and" +
                 " when we return it will unstash changes")
+        println("localchanges")
+        println("Experimental")
     }
 }
