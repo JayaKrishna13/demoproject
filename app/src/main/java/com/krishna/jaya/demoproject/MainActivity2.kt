@@ -9,6 +9,6 @@ class MainActivity2 : AppCompatActivity() {
         setContentView(R.layout.activity_main2)
 
         println("this is second activity")
-        println("this is second activity")
+        println("this is jay activity")
     }
 }
