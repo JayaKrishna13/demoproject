@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("nkjcdnlkml;cds")
+        println("some local changes with out commiting we are checking out" +
+                "so it will stash the changes and" +
+                " when we return it will unstash changes")
     }
 }
